@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "faster_path",
+  "version": "1.0.0",
+
+  "name": "Run faster on path blocks",
+  "description": "Run faster on grass path blocks.",
+  "authors": [
+    "DahakaMVl"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "",
+  "icon": "",
+
+  "environment": "*",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.18"
+  }
+}

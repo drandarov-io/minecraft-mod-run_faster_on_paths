@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="None"
+
+[[mods]]
+modId="faster_paths"
+displayName="faster_paths"
+version="1.0.0"
+description='''
+
+'''

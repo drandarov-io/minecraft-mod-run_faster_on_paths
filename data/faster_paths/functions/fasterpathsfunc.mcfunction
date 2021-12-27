@@ -1,0 +1,1 @@
+execute at @a run execute as @a run execute if block ~ ~ ~ minecraft:dirt_path run effect give @s minecraft:speed 1 1 true

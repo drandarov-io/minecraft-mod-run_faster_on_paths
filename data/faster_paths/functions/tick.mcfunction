@@ -1,0 +1,1 @@
+function faster_paths:fasterpathsfunc
