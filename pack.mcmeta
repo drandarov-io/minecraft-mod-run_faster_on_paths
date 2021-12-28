@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 8,
-		"description": "Run faster on grass path blocks."
-	}
+  "pack": {
+    "pack_format": 8,
+    "description": "Run faster on grass path blocks."
+  }
 }

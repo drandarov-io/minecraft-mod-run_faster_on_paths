@@ -1,11 +1,12 @@
 modLoader="javafml"
-loaderVersion="[1,)"
-license="None"
+loaderVersion="[37,)"
+license="All rights reserved"
 
 [[mods]]
-modId="faster_paths"
-displayName="faster_paths"
-version="1.0.0"
+modId="fasterpath"
+version="${file.jarVersion}"
+displayName="Run faster on grass path blocks"
+authors="DahakaMVl"
 description='''
-
+Run faster on grass path blocks.
 '''
